@@ -2,6 +2,8 @@
 
 This repository contains an **exercise developed for the Front-End discipline**, with the objective of creating a simple institutional website using HTML and CSS.
 
+You can see the project here: https://danielle1melo.github.io/WebsiteSmartCities/
+
 ## 💻 Technologies Used
   * HTML
   * CSS
